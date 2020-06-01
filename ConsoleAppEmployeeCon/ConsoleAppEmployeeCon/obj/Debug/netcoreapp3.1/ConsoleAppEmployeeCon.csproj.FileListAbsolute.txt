@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\bin\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\bin\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\bin\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\bin\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\bin\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\bin\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEmployeeCon\ConsoleAppEmployeeCon\obj\Debug\netcoreapp3.1\ConsoleAppEmployeeCon.genruntimeconfig.cache

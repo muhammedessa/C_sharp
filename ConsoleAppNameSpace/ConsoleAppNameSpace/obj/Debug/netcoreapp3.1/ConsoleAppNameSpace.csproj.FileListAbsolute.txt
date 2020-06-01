@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\bin\Debug\netcoreapp3.1\ConsoleAppNameSpace.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\bin\Debug\netcoreapp3.1\ConsoleAppNameSpace.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\bin\Debug\netcoreapp3.1\ConsoleAppNameSpace.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\bin\Debug\netcoreapp3.1\ConsoleAppNameSpace.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\bin\Debug\netcoreapp3.1\ConsoleAppNameSpace.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\bin\Debug\netcoreapp3.1\ConsoleAppNameSpace.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\obj\Debug\netcoreapp3.1\ConsoleAppNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\obj\Debug\netcoreapp3.1\ConsoleAppNameSpace.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\obj\Debug\netcoreapp3.1\ConsoleAppNameSpace.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\obj\Debug\netcoreapp3.1\ConsoleAppNameSpace.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\obj\Debug\netcoreapp3.1\ConsoleAppNameSpace.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppNameSpace\ConsoleAppNameSpace\obj\Debug\netcoreapp3.1\ConsoleAppNameSpace.genruntimeconfig.cache

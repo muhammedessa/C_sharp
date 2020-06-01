@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache

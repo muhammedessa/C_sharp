@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.genruntimeconfig.cache

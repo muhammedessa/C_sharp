@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\bin\Debug\netcoreapp3.1\Collections_Stack1.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\bin\Debug\netcoreapp3.1\Collections_Stack1.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\bin\Debug\netcoreapp3.1\Collections_Stack1.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\bin\Debug\netcoreapp3.1\Collections_Stack1.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\bin\Debug\netcoreapp3.1\Collections_Stack1.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\bin\Debug\netcoreapp3.1\Collections_Stack1.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\obj\Debug\netcoreapp3.1\Collections_Stack1.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\obj\Debug\netcoreapp3.1\Collections_Stack1.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\obj\Debug\netcoreapp3.1\Collections_Stack1.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\obj\Debug\netcoreapp3.1\Collections_Stack1.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\obj\Debug\netcoreapp3.1\Collections_Stack1.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Stack1\Collections_Stack1\obj\Debug\netcoreapp3.1\Collections_Stack1.genruntimeconfig.cache

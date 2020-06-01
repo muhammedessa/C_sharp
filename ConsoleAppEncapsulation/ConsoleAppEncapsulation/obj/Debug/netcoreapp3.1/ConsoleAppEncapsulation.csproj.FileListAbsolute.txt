@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppEncapsulation.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppEncapsulation.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppEncapsulation.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppEncapsulation.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppEncapsulation.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\bin\Debug\netcoreapp3.1\ConsoleAppEncapsulation.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppEncapsulation\ConsoleAppEncapsulation\obj\Debug\netcoreapp3.1\ConsoleAppEncapsulation.genruntimeconfig.cache

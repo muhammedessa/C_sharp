@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppAbstraction.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppAbstraction.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppAbstraction.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppAbstraction.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppAbstraction.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\bin\Debug\netcoreapp3.1\ConsoleAppAbstraction.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAbstraction\ConsoleAppAbstraction\obj\Debug\netcoreapp3.1\ConsoleAppAbstraction.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\bin\Debug\WpfAppDataGrid.exe.config
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\bin\Debug\WpfAppDataGrid.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\bin\Debug\WpfAppDataGrid.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\App.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid_MarkupCompile.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid_MarkupCompile.lref
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\MainWindow.baml
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid.g.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid.Properties.Resources.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppDataGrid\WpfAppDataGrid\obj\Debug\WpfAppDataGrid.pdb

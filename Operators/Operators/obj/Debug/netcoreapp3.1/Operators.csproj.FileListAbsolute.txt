@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

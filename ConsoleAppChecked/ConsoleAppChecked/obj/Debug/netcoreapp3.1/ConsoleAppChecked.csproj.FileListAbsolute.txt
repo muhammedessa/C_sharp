@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\bin\Debug\netcoreapp3.1\ConsoleAppChecked.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\bin\Debug\netcoreapp3.1\ConsoleAppChecked.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\bin\Debug\netcoreapp3.1\ConsoleAppChecked.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\bin\Debug\netcoreapp3.1\ConsoleAppChecked.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\bin\Debug\netcoreapp3.1\ConsoleAppChecked.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\bin\Debug\netcoreapp3.1\ConsoleAppChecked.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppChecked\ConsoleAppChecked\obj\Debug\netcoreapp3.1\ConsoleAppChecked.genruntimeconfig.cache

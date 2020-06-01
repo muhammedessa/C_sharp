@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\bin\Debug\netcoreapp3.1\ConsoleWhileLoop.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\bin\Debug\netcoreapp3.1\ConsoleWhileLoop.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\bin\Debug\netcoreapp3.1\ConsoleWhileLoop.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\bin\Debug\netcoreapp3.1\ConsoleWhileLoop.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\bin\Debug\netcoreapp3.1\ConsoleWhileLoop.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\bin\Debug\netcoreapp3.1\ConsoleWhileLoop.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\obj\Debug\netcoreapp3.1\ConsoleWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\obj\Debug\netcoreapp3.1\ConsoleWhileLoop.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\obj\Debug\netcoreapp3.1\ConsoleWhileLoop.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\obj\Debug\netcoreapp3.1\ConsoleWhileLoop.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\obj\Debug\netcoreapp3.1\ConsoleWhileLoop.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleWhileLoop\ConsoleWhileLoop\obj\Debug\netcoreapp3.1\ConsoleWhileLoop.genruntimeconfig.cache

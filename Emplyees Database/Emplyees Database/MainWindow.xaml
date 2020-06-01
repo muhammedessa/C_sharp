@@ -1,0 +1,26 @@
+﻿<Window x:Class="Emplyees_Database.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Emplyees_Database"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="48*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="DataGridView1" HorizontalAlignment="Left" Height="342" Margin="38,37,0,0" VerticalAlignment="Top" Width="374" Grid.ColumnSpan="2" SelectionChanged="ClickCellItem"  />
+        <Label Content="Add Employee" Grid.Column="1" HorizontalAlignment="Left" Margin="473,37,0,0" VerticalAlignment="Top" Height="31" Width="172"/>
+        <TextBox x:Name="firstNameTxt" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="473,73,0,0" TextWrapping="Wrap" Text="First name" VerticalAlignment="Top" Width="191"  />
+        <TextBox x:Name="lastNameTxt" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="473,110,0,0" TextWrapping="Wrap" Text="Last name" VerticalAlignment="Top" Width="191"/>
+        <Label Content="Delete or Update" Grid.Column="1" HorizontalAlignment="Left" Margin="473,220,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.513,0.5" Width="139" Height="24"/>
+        <TextBox x:Name="editFirstNameTxt" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="473,288,0,0" TextWrapping="Wrap" Text="first name" VerticalAlignment="Top" Width="172"/>
+        <TextBox x:Name="editLastNameTxt" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="473,324,0,0" TextWrapping="Wrap" Text="last name" VerticalAlignment="Top" Width="172"/>
+        <Label x:Name="editID" Content="id" Grid.Column="1" HorizontalAlignment="Left" Margin="473,259,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.513,0.5" Width="139" Height="24"/>
+        <Button x:Name="addBtn" Content="Save" Grid.Column="1" HorizontalAlignment="Left" Margin="473,152,0,0" VerticalAlignment="Top" Width="191" Click="saveEmployeeBtn"/>
+        <Button x:Name="updateBtn" Content="Update" Grid.Column="1" HorizontalAlignment="Left" Margin="473,364,0,0" VerticalAlignment="Top" Width="75" Click="UpdateBtn"/>
+        <Button x:Name="deleteBtn" Content="Delete" Grid.Column="1" HorizontalAlignment="Left" Margin="570,364,0,0" VerticalAlignment="Top" Width="75" Click="DeleteBtn"/>
+    </Grid>
+</Window>

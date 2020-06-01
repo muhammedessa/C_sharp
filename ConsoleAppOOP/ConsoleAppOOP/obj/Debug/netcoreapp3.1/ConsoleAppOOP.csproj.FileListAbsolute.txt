@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\bin\Debug\netcoreapp3.1\ConsoleAppOOP.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOOP\ConsoleAppOOP\obj\Debug\netcoreapp3.1\ConsoleAppOOP.genruntimeconfig.cache

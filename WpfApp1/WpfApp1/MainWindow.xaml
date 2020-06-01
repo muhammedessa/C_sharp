@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="554.492" Width="1079.915">
+    <Grid>
+        <Label x:Name="labelName" Content="Ahmed Essa" HorizontalAlignment="Left" Margin="52,25,0,0" VerticalAlignment="Top" Height="92" Width="507" FontSize="26" FontFamily="Arial" FontWeight="Bold" FontStyle="Italic" Foreground="#FFD32525" Background="#FFF5F50D"/>
+        <Button x:Name="btnClick" Content="Click this" HorizontalAlignment="Left" Margin="839,424,0,0" VerticalAlignment="Top" Width="198" Click="Button_Click" Height="78" FontSize="24"/>
+        <TextBlock Background="Aqua" TextWrapping="Wrap"  HorizontalAlignment="Left" Margin="626,25,0,0"    VerticalAlignment="Top" Height="163" Width="439" FontSize="22">
+           Muhammed Essa <Bold>Hameed Essa Muhammed</Bold> Yousif Muhammed Essa <Italic> Hameed Essa Muhammed</Italic> YousifMuhammed Essa Hameed Essa <Underline> Muhammed Yousif </Underline>
+        </TextBlock>
+        <TextBox x:Name="textBox1" SpellCheck.IsEnabled="True" AcceptsReturn="True" HorizontalAlignment="Left" Height="181" Margin="591,210,0,0" TextWrapping="Wrap" Text="Enter Your name" VerticalAlignment="Top" Width="446" FontSize="24"/>
+        <CheckBox Content="Muhammed" HorizontalAlignment="Left" Margin="66,160,0,0" VerticalAlignment="Top" FontSize="24" Checked="CBmuhammed" Unchecked="UNmuhammed"  />
+        <CheckBox Content="Omer" HorizontalAlignment="Left" Margin="66,212,0,0" VerticalAlignment="Top" FontSize="24" Checked="CBOmer" Unchecked="UNomer"/>
+        <CheckBox Content="Walid" HorizontalAlignment="Left" Margin="66,268,0,0" VerticalAlignment="Top" FontSize="24" Checked="CBwalid" Unchecked="UNwalid"/>
+        <RadioButton x:Name="rd1" Content="Jasim" HorizontalAlignment="Left" Margin="191,335,0,0" VerticalAlignment="Top" FontSize="24" GroupName="names" Checked="RDjasim"  />
+        <RadioButton x:Name="red2" Content="Hassan" HorizontalAlignment="Left" Margin="191,387,0,0" VerticalAlignment="Top" FontSize="24" GroupName="names" Checked="RDhassan"/>
+        <RadioButton x:Name="rd3" Content="Emad" HorizontalAlignment="Left" Margin="191,448,0,0" VerticalAlignment="Top" FontSize="24" GroupName="names" Checked="RDemad"  />
+
+    </Grid>
+</Window>

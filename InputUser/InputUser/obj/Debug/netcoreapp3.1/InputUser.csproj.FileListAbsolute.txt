@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\bin\Debug\netcoreapp3.1\InputUser.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\InputUser\InputUser\obj\Debug\netcoreapp3.1\InputUser.genruntimeconfig.cache

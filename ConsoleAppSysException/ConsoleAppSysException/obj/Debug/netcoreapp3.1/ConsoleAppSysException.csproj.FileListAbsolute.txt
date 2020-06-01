@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\bin\Debug\netcoreapp3.1\ConsoleAppSysException.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\bin\Debug\netcoreapp3.1\ConsoleAppSysException.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\bin\Debug\netcoreapp3.1\ConsoleAppSysException.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\bin\Debug\netcoreapp3.1\ConsoleAppSysException.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\bin\Debug\netcoreapp3.1\ConsoleAppSysException.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\bin\Debug\netcoreapp3.1\ConsoleAppSysException.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\obj\Debug\netcoreapp3.1\ConsoleAppSysException.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\obj\Debug\netcoreapp3.1\ConsoleAppSysException.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\obj\Debug\netcoreapp3.1\ConsoleAppSysException.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\obj\Debug\netcoreapp3.1\ConsoleAppSysException.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\obj\Debug\netcoreapp3.1\ConsoleAppSysException.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSysException\ConsoleAppSysException\obj\Debug\netcoreapp3.1\ConsoleAppSysException.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\bin\Debug\WpfAppListView.exe.config
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\bin\Debug\WpfAppListView.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\bin\Debug\WpfAppListView.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\MainWindow.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\App.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView_MarkupCompile.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView_MarkupCompile.lref
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\MainWindow.baml
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.g.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.Properties.Resources.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListView\WpfAppListView\obj\Debug\WpfAppListView.pdb

@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\bin\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStaticKeyword\ConsoleAppStaticKeyword\obj\Debug\netcoreapp3.1\ConsoleAppStaticKeyword.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\bin\Debug\netcoreapp3.1\ConsoleAppAggregation.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAggregation\ConsoleAppAggregation\obj\Debug\netcoreapp3.1\ConsoleAppAggregation.genruntimeconfig.cache

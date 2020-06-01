@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\bin\Debug\netcoreapp3.1\ConsoleCallByValue.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\bin\Debug\netcoreapp3.1\ConsoleCallByValue.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\bin\Debug\netcoreapp3.1\ConsoleCallByValue.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\bin\Debug\netcoreapp3.1\ConsoleCallByValue.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\bin\Debug\netcoreapp3.1\ConsoleCallByValue.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\bin\Debug\netcoreapp3.1\ConsoleCallByValue.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleCallByValue\ConsoleCallByValue\obj\Debug\netcoreapp3.1\ConsoleCallByValue.genruntimeconfig.cache

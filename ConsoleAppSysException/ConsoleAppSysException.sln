@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSysException", "ConsoleAppSysException\ConsoleAppSysException.csproj", "{03FE03B6-20B2-444D-9506-5332BF9CDCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FE03B6-20B2-444D-9506-5332BF9CDCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FE03B6-20B2-444D-9506-5332BF9CDCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FE03B6-20B2-444D-9506-5332BF9CDCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FE03B6-20B2-444D-9506-5332BF9CDCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F16AE9-07A5-49A4-BF98-5A8398296172}
+	EndGlobalSection
+EndGlobal

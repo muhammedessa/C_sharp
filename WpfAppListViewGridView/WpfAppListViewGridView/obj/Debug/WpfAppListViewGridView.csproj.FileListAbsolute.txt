@@ -1,0 +1,15 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\bin\Debug\WpfAppListViewGridView.exe.config
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\bin\Debug\WpfAppListViewGridView.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\bin\Debug\WpfAppListViewGridView.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\MainWindow.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\App.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView_MarkupCompile.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView_MarkupCompile.lref
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\MainWindow.baml
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.g.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.Properties.Resources.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfAppListViewGridView\WpfAppListViewGridView\obj\Debug\WpfAppListViewGridView.pdb

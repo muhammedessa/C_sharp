@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAbstraction", "ConsoleAppAbstraction\ConsoleAppAbstraction.csproj", "{C9959DD1-62BE-4E21-9766-8C9BB3F6D889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9959DD1-62BE-4E21-9766-8C9BB3F6D889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9959DD1-62BE-4E21-9766-8C9BB3F6D889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9959DD1-62BE-4E21-9766-8C9BB3F6D889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9959DD1-62BE-4E21-9766-8C9BB3F6D889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C6698E-A6C6-4601-A29E-329AF1CB77CD}
+	EndGlobalSection
+EndGlobal

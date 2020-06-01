@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\netcoreapp3.1\ConsoleAppStruct.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\netcoreapp3.1\ConsoleAppStruct.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\netcoreapp3.1\ConsoleAppStruct.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\netcoreapp3.1\ConsoleAppStruct.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\netcoreapp3.1\ConsoleAppStruct.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\netcoreapp3.1\ConsoleAppStruct.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\netcoreapp3.1\ConsoleAppStruct.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\netcoreapp3.1\ConsoleAppStruct.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\netcoreapp3.1\ConsoleAppStruct.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\netcoreapp3.1\ConsoleAppStruct.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\netcoreapp3.1\ConsoleAppStruct.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\netcoreapp3.1\ConsoleAppStruct.genruntimeconfig.cache

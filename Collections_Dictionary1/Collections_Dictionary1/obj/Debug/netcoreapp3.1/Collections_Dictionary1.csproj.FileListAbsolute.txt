@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\bin\Debug\netcoreapp3.1\Collections_Dictionary1.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\bin\Debug\netcoreapp3.1\Collections_Dictionary1.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\bin\Debug\netcoreapp3.1\Collections_Dictionary1.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\bin\Debug\netcoreapp3.1\Collections_Dictionary1.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\bin\Debug\netcoreapp3.1\Collections_Dictionary1.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\bin\Debug\netcoreapp3.1\Collections_Dictionary1.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Dictionary1\Collections_Dictionary1\obj\Debug\netcoreapp3.1\Collections_Dictionary1.genruntimeconfig.cache

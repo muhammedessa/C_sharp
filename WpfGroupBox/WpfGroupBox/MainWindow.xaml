@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfGroupBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfGroupBox"
+        mc:Ignorable="d"
+        Title="Muhammed Essa" Height="450" Width="800">
+    <Grid>
+        <GroupBox HorizontalAlignment="Left" Height="213" Margin="49,52,0,0" VerticalAlignment="Top" Width="317">
+            <GroupBox.Header>
+                <TextBlock>Student Information</TextBlock>
+            </GroupBox.Header>
+
+            <StackPanel HorizontalAlignment="Left" Height="156" Margin="10,10,0,0" VerticalAlignment="Top" Width="279" RenderTransformOrigin="0.495,0.739">
+                <TextBox Height="23" TextWrapping="Wrap" Text="First name" Margin="12,20,12,30"/>
+                <TextBox Height="23" TextWrapping="Wrap" Text="Last name" Margin="12,0,12,20"/>
+                <Button Content="Add student" Margin="22,4,22,0"/>
+
+            </StackPanel>
+
+        </GroupBox>
+        <DatePicker x:Name="DatePicker1" SelectedDate="2020-5-4" HorizontalAlignment="Left" Margin="424,129,0,0" VerticalAlignment="Top" Height="28" Width="248">
+            <DatePicker.BlackoutDates>
+                <CalendarDateRange Start="2020-5-10" End="2020-5-15"/>
+                <CalendarDateRange Start="2020-5-20" End="2020-5-25"/>
+            </DatePicker.BlackoutDates>
+        </DatePicker>
+        <Label x:Name="LabelInfo" Content="Info" HorizontalAlignment="Left" Margin="437,52,0,0" VerticalAlignment="Top" Height="50" Width="181"/>
+        <ComboBox x:Name="CBfruits" HorizontalAlignment="Left" Margin="424,188,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>Orange</ComboBoxItem>
+            <ComboBoxItem>Apple</ComboBoxItem>
+            <ComboBoxItem>Banana</ComboBoxItem>
+            <ComboBoxItem>Date</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="RegisterBtn" Content="Register" HorizontalAlignment="Left" Margin="437,250,0,0" VerticalAlignment="Top" Width="181" Height="38" Click="RegisterClick"/>
+
+    </Grid>
+</Window>

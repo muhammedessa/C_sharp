@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\bin\Debug\netcoreapp3.1\ConsoleAppOverriding.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\bin\Debug\netcoreapp3.1\ConsoleAppOverriding.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\bin\Debug\netcoreapp3.1\ConsoleAppOverriding.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\bin\Debug\netcoreapp3.1\ConsoleAppOverriding.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\bin\Debug\netcoreapp3.1\ConsoleAppOverriding.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\bin\Debug\netcoreapp3.1\ConsoleAppOverriding.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppOverriding\ConsoleAppOverriding\obj\Debug\netcoreapp3.1\ConsoleAppOverriding.genruntimeconfig.cache

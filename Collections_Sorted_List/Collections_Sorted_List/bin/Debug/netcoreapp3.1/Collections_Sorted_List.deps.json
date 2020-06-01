@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Collections_Sorted_List/1.0.0": {
+        "runtime": {
+          "Collections_Sorted_List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Collections_Sorted_List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

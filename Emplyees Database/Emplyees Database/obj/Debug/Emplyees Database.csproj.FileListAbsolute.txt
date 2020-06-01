@@ -1,0 +1,15 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\MainWindow.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\App.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database_MarkupCompile.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database_MarkupCompile.lref
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\bin\Debug\Emplyees Database.exe.config
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\bin\Debug\Emplyees Database.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\bin\Debug\Emplyees Database.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\MainWindow.baml
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database.g.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees_Database.Properties.Resources.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\Emplyees Database\Emplyees Database\obj\Debug\Emplyees Database.pdb

@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\bin\Debug\netcoreapp3.1\StringToOthers.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.genruntimeconfig.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\StringToOthers\StringToOthers\obj\Debug\netcoreapp3.1\StringToOthers.csprojAssemblyReference.cache

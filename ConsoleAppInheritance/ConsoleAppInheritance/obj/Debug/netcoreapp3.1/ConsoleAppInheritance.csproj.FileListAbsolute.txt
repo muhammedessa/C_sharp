@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\netcoreapp3.1\ConsoleAppInheritance.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\netcoreapp3.1\ConsoleAppInheritance.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\netcoreapp3.1\ConsoleAppInheritance.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\netcoreapp3.1\ConsoleAppInheritance.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\netcoreapp3.1\ConsoleAppInheritance.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\netcoreapp3.1\ConsoleAppInheritance.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\netcoreapp3.1\ConsoleAppInheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\bin\Debug\netcoreapp3.1\ConsoleForeachLoop.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\bin\Debug\netcoreapp3.1\ConsoleForeachLoop.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\bin\Debug\netcoreapp3.1\ConsoleForeachLoop.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\bin\Debug\netcoreapp3.1\ConsoleForeachLoop.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\bin\Debug\netcoreapp3.1\ConsoleForeachLoop.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\bin\Debug\netcoreapp3.1\ConsoleForeachLoop.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleForeachLoop\ConsoleForeachLoop\obj\Debug\netcoreapp3.1\ConsoleForeachLoop.genruntimeconfig.cache

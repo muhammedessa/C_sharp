@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\bin\Debug\netcoreapp3.1\ConsoleAppAccessModifier.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\bin\Debug\netcoreapp3.1\ConsoleAppAccessModifier.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\bin\Debug\netcoreapp3.1\ConsoleAppAccessModifier.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\bin\Debug\netcoreapp3.1\ConsoleAppAccessModifier.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\bin\Debug\netcoreapp3.1\ConsoleAppAccessModifier.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\bin\Debug\netcoreapp3.1\ConsoleAppAccessModifier.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppAccessModifier\ConsoleAppAccessModifier\obj\Debug\netcoreapp3.1\ConsoleAppAccessModifier.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSealed\ConsoleAppSealed\obj\Debug\netcoreapp3.1\ConsoleAppSealed.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSealed\ConsoleAppSealed\obj\Debug\netcoreapp3.1\ConsoleAppSealed.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSealed\ConsoleAppSealed\obj\Debug\netcoreapp3.1\ConsoleAppSealed.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppSealed\ConsoleAppSealed\obj\Debug\netcoreapp3.1\ConsoleAppSealed.AssemblyInfo.cs

@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\bin\Debug\netcoreapp3.1\ConditionStateIF.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConditionStateIF\ConditionStateIF\obj\Debug\netcoreapp3.1\ConditionStateIF.genruntimeconfig.cache

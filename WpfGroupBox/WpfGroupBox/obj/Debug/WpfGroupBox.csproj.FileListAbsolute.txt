@@ -1,0 +1,15 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\bin\Debug\WpfGroupBox.exe.config
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\bin\Debug\WpfGroupBox.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\bin\Debug\WpfGroupBox.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\MainWindow.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\App.g.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox_MarkupCompile.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox_MarkupCompile.lref
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\MainWindow.baml
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.g.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.Properties.Resources.resources
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\WpfGroupBox\WpfGroupBox\obj\Debug\WpfGroupBox.pdb

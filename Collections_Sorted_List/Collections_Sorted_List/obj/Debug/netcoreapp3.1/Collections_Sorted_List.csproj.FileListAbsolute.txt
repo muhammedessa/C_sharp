@@ -1,0 +1,12 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\bin\Debug\netcoreapp3.1\Collections_Sorted_List.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\Collections_Sorted_List\Collections_Sorted_List\obj\Debug\netcoreapp3.1\Collections_Sorted_List.genruntimeconfig.cache

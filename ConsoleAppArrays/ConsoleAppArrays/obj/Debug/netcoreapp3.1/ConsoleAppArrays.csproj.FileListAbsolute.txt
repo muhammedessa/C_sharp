@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\netcoreapp3.1\ConsoleAppArrays.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\netcoreapp3.1\ConsoleAppArrays.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\netcoreapp3.1\ConsoleAppArrays.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\netcoreapp3.1\ConsoleAppArrays.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\netcoreapp3.1\ConsoleAppArrays.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\bin\Debug\netcoreapp3.1\ConsoleAppArrays.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppArrays\ConsoleAppArrays\obj\Debug\netcoreapp3.1\ConsoleAppArrays.genruntimeconfig.cache

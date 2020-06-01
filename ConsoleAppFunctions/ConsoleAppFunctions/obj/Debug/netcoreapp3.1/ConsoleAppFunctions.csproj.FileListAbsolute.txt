@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\netcoreapp3.1\ConsoleAppFunctions.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\netcoreapp3.1\ConsoleAppFunctions.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\netcoreapp3.1\ConsoleAppFunctions.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\netcoreapp3.1\ConsoleAppFunctions.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\netcoreapp3.1\ConsoleAppFunctions.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\bin\Debug\netcoreapp3.1\ConsoleAppFunctions.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppFunctions\ConsoleAppFunctions\obj\Debug\netcoreapp3.1\ConsoleAppFunctions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\bin\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.exe
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\bin\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.deps.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\bin\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.runtimeconfig.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\bin\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\bin\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\bin\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.dll
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.pdb
+C:\Users\muhammed\Desktop\CsharpTutorials\ConsoleAppPolymorphisim\ConsoleAppPolymorphisim\obj\Debug\netcoreapp3.1\ConsoleAppPolymorphisim.genruntimeconfig.cache
